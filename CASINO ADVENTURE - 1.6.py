@@ -2,7 +2,7 @@ import random
 
 winner = False
 def money():
-    balance = 500000
+    balance = 2500
     key = False
     green = False
      #Introduction#
